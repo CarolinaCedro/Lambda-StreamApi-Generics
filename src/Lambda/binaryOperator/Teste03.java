@@ -1,4 +1,4 @@
-package Lambda.interfacesFuncionaisApiJava;
+package Lambda.binaryOperator;
 
 
 //Dentro da api java existe uma lista de interfaces funcionais onde podemos utilizar
