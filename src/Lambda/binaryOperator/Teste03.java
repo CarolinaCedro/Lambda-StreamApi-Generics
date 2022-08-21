@@ -20,8 +20,5 @@ public class Teste03 {
         BinaryOperator<Integer> numerosInteiros = (n1,n2) -> n1 + n2;
         System.out.println(numerosInteiros.apply(5,5));
 
-
-
-
     }
 }
