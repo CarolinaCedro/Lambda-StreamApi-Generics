@@ -1,6 +1,6 @@
 package Lambda.pratice01;
 
-public class Main {
+public class Teste01 {
     public static void main(String[] args) {
 
         //tipo 1 de retorno
