@@ -14,6 +14,7 @@ public class Main {
         Generics<Integer> genericsInteiros = new Generics<Integer>();
         //Agora deixa pq o tipo é correspondente
         genericsInteiros.setNome(44444);
+        system.out.print("oi");
     }
 
 
